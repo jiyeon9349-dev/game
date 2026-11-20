@@ -1,0 +1,6 @@
+{
+  "name": "Apex Strike",
+  "description": "전술 공중 아케이드 슈팅 게임 - 적 편대와 보스를 격파하고 전투기를 강화하세요.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
